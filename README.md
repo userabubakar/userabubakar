@@ -1,3 +1,4 @@
+![logo](https://github.com/userabubakar/userabubakar/blob/main/6169809%20(1).jpg)
 <h1 align="center">Hi 👋, I'm Muhammad Abubakar | Expert Mobile & Web App Developer | Freelance Specialist in High-Performance Solutions</h1>
 <h3 align="center">Empowering Businesses with Custom Mobile & Web Solutions | Android & iOS | Flutter, React Native, Node.js | Passionate about Innovation in App Development</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/1ce3d5a3-a9e7-4d49-9353-6b2cbe98b0e2">
